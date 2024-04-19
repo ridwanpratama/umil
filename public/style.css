@@ -1,0 +1,64 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #764ba2;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.btn-primary {
+    background-color: #764ba2;
+    border-color: #764ba2;
+}
+
+.btn-primary:hover {
+    background-color: #5e3d82;
+    border-color: #5e3d82;
+}
+
+.faq-section {
+    margin-top: 2rem;
+}
+
+.accordion-button {
+    font-weight: bold;
+}
+
+.line-separator {
+    height: 2px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.nav li {
+    margin: 0 10px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #f8f9fa;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
